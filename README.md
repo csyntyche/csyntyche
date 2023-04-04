@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My first REadme is so wonderful
 
 <!--
 **csyntyche/csyntyche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
